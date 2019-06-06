@@ -1,0 +1,89 @@
+.test{
+  width: 540px;
+  margin: 5px auto;
+  overflow: hidden;
+  padding: 4px;
+  border-radius: 2px;
+  box-shadow: 0 0 3px rgba(0,0,0,.3) inset;
+}
+
+.test_color{
+  width: 520px;
+  margin: 5px auto;
+  overflow: hidden;
+  padding: 20px;
+  border-radius: 2px;
+  font: 16px Arial, Helvetica, sans-serif;
+  box-shadow: 0 0 3px rgba(0,0,0,.3) inset;
+  color: white;
+}
+
+.test input{
+  float: left;
+  border: none;
+  padding: 2px 10px 2px 4px;
+  font: 16px Arial, Helvetica, sans-serif;
+  height: 36px;
+  width: 306px;
+  margin: 0;
+  -webkit-appearance: none;
+  outline: none;
+  box-shadow: 0 0 0px rgba(0,0,0,.5);
+  }
+
+.test button{
+  float: right;
+  border: none;
+  background-color: #34a87f;
+  padding: 0;
+  margin: 0;
+  width: 70px;
+  height: 36px;
+  font: 14px/30px Arial, Helvetica, sans-serif;
+  position: relative;
+  cursor: pointer;
+  color: white;
+  border-radius: 2px;
+  text-align: center;
+}
+
+.test input.colorBtn{
+  float: left;
+  border: none;
+  background-color: #34a87f;
+  padding: 5px;
+  margin: 3px; 
+  margin-top: 8px;
+  width: 20px;
+  height: 20px;
+  font: 14px/30px Arial, Helvetica, sans-serif;
+  position: center;
+  cursor: pointer;
+  color: white;
+  border-radius: 2px;
+  text-align: center;
+}
+
+#color1 {
+  background-color: #f72e67;
+}
+
+#color2 {
+  background-color: #ff6397;
+}
+
+#color3 {
+  background-color: #b037f2; 
+}
+
+#color4 {
+  background-color: #37b0f1;
+}
+
+#color5 {
+  background-color: #12ccc5;
+}
+
+#color6 {
+  background-color: #e9ed21;
+}
